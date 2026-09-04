@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** `Vladislav Marchenko
+- **Full Name:** Vladislav Marchenko
 - **CCID:** vmarchen
 
 ## References and Resources
