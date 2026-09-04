@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Vladislav Marchenko
-- **CCID:** `vmarchen
+- **CCID:** vmarchen
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
